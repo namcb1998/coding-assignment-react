@@ -1,0 +1,15 @@
+.list-ticket {
+
+}
+
+.item-ticket {
+    margin-top: 10px;
+    border-top: 1px solid black;
+    padding-top: 10px;
+}
+
+.item-ticket:first-child {
+    margin-top: 0;
+    border-top: none;
+    padding-top: 0;
+}
